@@ -1,1 +1,1 @@
-"Текст из main" 
+Text main
