@@ -83,7 +83,7 @@
 ![Меню](https://github.com/Soleeek30/-/blob/0e106a1faf27965cfb60c3566f3a5da62693544b/pics/YcVyRjFX6_4.jpg)
 
 ### 2.13 Исправление коммита.
-![Меню]()
+![Меню](https://github.com/Soleeek30/-/blob/Тема_1/pics/RQ3Y5nNylkQ.jpg)
 
 ### 2.14 Разрешение конфликта при слиянии.
 ![Меню](https://github.com/Soleeek30/-/blob/0e106a1faf27965cfb60c3566f3a5da62693544b/pics/qSLNNqhWrmM.jpg)
