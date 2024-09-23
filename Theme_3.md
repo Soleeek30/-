@@ -276,7 +276,7 @@ while counter != 10:
 ```
 
 ### Результат
-![Меню](https://github.com/Soleeek30/-/blob/Theme_3/pics3/15.jpg)
+![Меню](https://github.com/Soleeek30/-/blob/Theme_3/pics3/10.jpg)
 ### Вывод
 - Инициализируем переменные counter, values, string и memory.
 - Запускаем цикл while, который выполняется, пока counter не станет равен 10.
